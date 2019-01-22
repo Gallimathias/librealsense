@@ -29,7 +29,7 @@ matrix:
     - name: "Windows - C#"
       os: windows
       language: csharp
-      solution: ./wrappers/csharp/Intel.RealSense.sln"
+      solution: ./wrappers/csharp/Intel.RealSense.sln
 
     - name: "Linux Testing - cpp"
       os: linux
