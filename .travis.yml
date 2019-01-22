@@ -27,7 +27,6 @@ matrix:
         - ls $LRS_BUILD_CONFIG
 
     - name: "Windows - C#"
-      os: windows
       language: csharp
       solution: ./wrappers/csharp/Intel.RealSense.sln
 
