@@ -1,0 +1,3 @@
+[submodule "wrappers/csharp/librealsense.csharp"]
+	path = wrappers/csharp/librealsense.csharp
+	url = https://github.com/Gallimathias/librealsense.csharp.git
